@@ -5,27 +5,6 @@ Este perfil reúne projetos, testes e estudos voltados para programação e dese
 
 ---
 
-## Áreas de Interesse
-
-- Desenvolvimento de Sistemas  
-- Banco de Dados  
-- Programação  
-- Estrutura de Software  
-- Automação e Tecnologia
-
----
-
-## Tecnologias
-
-- HTML  
-- CSS  
-- JavaScript  
-- MySQL  
-- Git  
-- GitHub
-
----
-
 ## Objetivo
 
 Desenvolver projetos práticos para aprimorar conhecimentos em tecnologia, organização de código e construção de sistemas funcionais.
@@ -45,4 +24,5 @@ Os repositórios deste perfil incluem:
 
 ## Contato
 
-[GitHub](https://github.com/carloslimaamorim)
+[GitHub](https://github.com/carloslimaamorim)  
+[Loja Virtual](https://maskaradobr.lojavirtual.com.br/)
