@@ -24,5 +24,5 @@ Os repositórios deste perfil incluem:
 
 ## Contato
 
-[GitHub](https://github.com/carloslimaamorim)  
+[![Github](https://github.com/carloslimaamorim)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 [Loja Virtual](https://maskaradobr.lojavirtual.com.br/)
